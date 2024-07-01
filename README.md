@@ -1,2 +1,3 @@
-# Larissa_inf_sarcoma
-EPIC DNAmet and bulk RNA-seq data from stjude 
+Bulk RNA-seq and EPIC DNAmet data from StJude samples
+
+
